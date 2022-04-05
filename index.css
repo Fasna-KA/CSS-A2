@@ -40,22 +40,7 @@ div{
     left: 60vw;
     top: 20px;
 }
-/* .test4{
-    top: 50vh;
-    left: 5vw;
-    display: block;
-    position: relative;
-    width: 350px;
-    height:350px;
-    border: 5px solid rgb(115, 102, 102);
-    border-radius: 175px;
-    background-color: rgb(14, 173, 146);
-    text-align: center;
-    align-items: center;
-    font-weight: bold;
-    font-style: italic;
-}
-it wllnt work lik ths */
+
 /* rudoff */
 .logo{
     display: block;
